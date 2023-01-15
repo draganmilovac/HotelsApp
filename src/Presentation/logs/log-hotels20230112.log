@@ -1,0 +1,66 @@
+2023-01-12 08:36:53.295 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.GetAllHotelsSortedByCurrentLocationQueryHandler] Prepare list of all hotels
+2023-01-12 08:36:53.371 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Current location is x: 23 and y: 12
+2023-01-12 08:36:53.374 +01:00 [Warning] [HotelsApp.Application.Requests.Handlers.GetAllHotelsSortedByCurrentLocationQueryHandler] List of hotels is empty
+2023-01-12 08:37:55.861 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelDeleteCommandHandler] Start deleting hotel
+2023-01-12 08:37:55.863 +01:00 [Error] [HotelsApp.Infrastructure.Repositories.HotelRepository] Hotel with id: 3 does not exist and it is not possible to delete hotel
+2023-01-12 08:38:17.067 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.GetHotelQueryHanlder] Start searching for hotel with id 1
+2023-01-12 08:38:17.069 +01:00 [Error] [HotelsApp.Application.Requests.Handlers.GetHotelQueryHanlder] Hotel with id: 1 does not exist.
+2023-01-12 08:38:33.023 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelUpdateCommandHandler] Start updating hotel with id:0
+2023-01-12 08:38:33.034 +01:00 [Error] [HotelsApp.Application.Requests.Handlers.HotelUpdateCommandHandler] Hotel with id:0 does not exist
+2023-01-12 08:38:59.886 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.GetHotelsQueryHandler] Start getting list of all hotels
+2023-01-12 08:38:59.889 +01:00 [Warning] [HotelsApp.Application.Requests.Handlers.GetHotelsQueryHandler] There is no hotel in the list
+2023-01-12 09:18:07.664 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] Start creating new hotel and add in hotel list
+2023-01-12 09:18:07.730 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] Set id for new hotel
+2023-01-12 09:18:07.732 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] New hotel with id 2 is added to list
+2023-01-12 09:18:07.733 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] New hotel is created and added to list
+2023-01-12 09:18:27.032 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] Start creating new hotel and add in hotel list
+2023-01-12 09:18:27.033 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] Set id for new hotel
+2023-01-12 09:18:27.035 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] New hotel with id 3 is added to list
+2023-01-12 09:18:27.037 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] New hotel is created and added to list
+2023-01-12 09:18:45.262 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] Start creating new hotel and add in hotel list
+2023-01-12 09:18:45.266 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] Set id for new hotel
+2023-01-12 09:18:45.268 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] New hotel with id 4 is added to list
+2023-01-12 09:18:45.270 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] New hotel is created and added to list
+2023-01-12 09:19:15.900 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] Start creating new hotel and add in hotel list
+2023-01-12 09:19:15.902 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] Set id for new hotel
+2023-01-12 09:19:15.903 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] New hotel with id 5 is added to list
+2023-01-12 09:19:15.905 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] New hotel is created and added to list
+2023-01-12 09:19:20.908 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.GetHotelsQueryHandler] Start getting list of all hotels
+2023-01-12 09:19:20.911 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.GetHotelsQueryHandler] List of all hotels has been provided
+2023-01-12 09:22:41.295 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] Start creating new hotel and add in hotel list
+2023-01-12 09:22:41.348 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] Set id for new hotel
+2023-01-12 09:22:41.350 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] New hotel with id 2 is added to list
+2023-01-12 09:22:41.352 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] New hotel is created and added to list
+2023-01-12 09:22:50.730 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] Start creating new hotel and add in hotel list
+2023-01-12 09:22:50.731 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] Set id for new hotel
+2023-01-12 09:22:50.733 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] New hotel with id 3 is added to list
+2023-01-12 09:22:50.734 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] New hotel is created and added to list
+2023-01-12 09:22:58.849 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] Start creating new hotel and add in hotel list
+2023-01-12 09:22:58.850 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] Set id for new hotel
+2023-01-12 09:22:58.852 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] New hotel with id 4 is added to list
+2023-01-12 09:22:58.854 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] New hotel is created and added to list
+2023-01-12 09:23:07.145 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] Start creating new hotel and add in hotel list
+2023-01-12 09:23:07.146 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] Set id for new hotel
+2023-01-12 09:23:07.147 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.HotelRepository] New hotel with id 5 is added to list
+2023-01-12 09:23:07.149 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.HotelCreateCommandHandler] New hotel is created and added to list
+2023-01-12 09:23:10.470 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.GetHotelsQueryHandler] Start getting list of all hotels
+2023-01-12 09:23:10.473 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.GetHotelsQueryHandler] List of all hotels has been provided
+2023-01-12 09:23:57.763 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.GetAllHotelsSortedByCurrentLocationQueryHandler] Prepare list of all hotels
+2023-01-12 09:24:03.259 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Current location is x: 45.257907355517624 and y: 19.81236695106882
+2023-01-12 09:24:10.015 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Location for hotel with id: 2 is x: 45.254374284753254 and y: 19.821862950036017
+2023-01-12 09:24:10.018 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Distance between hotel with id 2 and current location is: 0.841454074611226km
+2023-01-12 09:24:10.019 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Location for hotel with id: 3 is x: 45.2211327840916 and y: 19.848985445749207
+2023-01-12 09:24:10.020 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Distance between hotel with id 3 and current location is: 4.998462349291955km
+2023-01-12 09:24:10.020 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Location for hotel with id: 4 is x: 45.237212010810886 and y: 19.810189977197428
+2023-01-12 09:24:10.021 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Distance between hotel with id 4 and current location is: 2.3095116321094995km
+2023-01-12 09:24:10.022 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Location for hotel with id: 5 is x: 45.25689124664803 and y: 19.814676541895956
+2023-01-12 09:24:10.022 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Distance between hotel with id 5 and current location is: 0.2133658733514701km
+2023-01-12 09:24:49.024 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.GetAllHotelsSortedByCurrentLocationQueryHandler] List of all hotels is prepared
+2023-01-12 09:24:50.754 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.GetAllHotelsSortedByCurrentLocationQueryHandler] List of all hotels is sorted by distance and price
+2023-01-12 09:29:25.088 +01:00 [Information] [HotelsApp.Application.Requests.Handlers.GetAllHotelsSortedByCurrentLocationQueryHandler] Prepare list of all hotels
+2023-01-12 09:29:26.911 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Current location is x: 45.257907355517624 and y: 19.81236695106882
+2023-01-12 09:29:26.912 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Location for hotel with id: 2 is x: 45.254374284753254 and y: 19.821862950036017
+2023-01-12 09:29:26.914 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Distance between hotel with id 2 and current location is: 0.841454074611226km
+2023-01-12 09:29:26.915 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Location for hotel with id: 3 is x: 45.2211327840916 and y: 19.848985445749207
+2023-01-12 09:29:26.915 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Distance between hotel with id 3 and current location is: 4.998462349291955km
+2023-01-12 09:29:26.916 +01:00 [Information] [HotelsApp.Infrastructure.Repositories.LocationHotelRepository] Location for hotel with id: 4 is x: 45.237212010810886 and y: 19.810189977197428
